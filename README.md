@@ -24,4 +24,25 @@ PHP の基本について
 ・XAMPP(ザンプ)  
 　PHP のローカル開発環境を作るための全部入りキット
 
-・
+・Apache と Nginx  
+　web サーバー用のソフトウェア
+
+・MariaDB  
+　データベース用のソフトウェア  
+　MySQL と MariaDB は元々同じもの
+
+・クロスプラットフォーム  
+　いろいろな OS に対応しているという意味
+
+・<?php で PHP を書く合図
+
+## phpinfo の設定
+・date(日付)の Default timezone の設定を Asia/Tokyo に変更する
+
+## phpMyAdmin の設定
+・phpMyAdmin は MySQL(MariaDB) を操作する画面
+
+・ユーザアカウントのパスワードを変更する
+
+・config.inc.php ファイルに作ったパスワードを設定する
+
